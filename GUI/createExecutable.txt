@@ -1,0 +1,6 @@
+To create an executable file from a Python file, open Window's command prompt and enter the following line (if 
+Pyinstaller is already installed on the computer) :
+
+pyinstaller --onefile --name <the name of the app> --icon=<iconName.ico> <pythonFile.py>
+
+More informations on : https://mborgerson.com/creating-an-executable-from-a-python-script.
