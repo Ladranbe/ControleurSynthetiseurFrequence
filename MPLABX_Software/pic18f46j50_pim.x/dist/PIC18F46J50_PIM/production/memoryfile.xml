@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/PIC18F46J50_PIM/production\pic18f46j50_pim.x.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>65528</length>
+      <used>8288</used>
+      <free>57240</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3776</length>
+      <used>530</used>
+      <free>3246</free>
+    </memory>
+  </executable>
+</project>
